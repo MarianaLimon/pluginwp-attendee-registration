@@ -1,0 +1,1 @@
+# pluginwp-attendee-registration
